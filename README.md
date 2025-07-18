@@ -34,13 +34,15 @@ Follow these steps to run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hamzaanwerdev/laslesvpn.git
-cd laslesvpn
+git clone https://github.com/hamzaAnwer123/Nexcent.git
+cd Nexcent
 ```
 ---
 
-2. Install Dependencies
- ```bash
-bun install
-bun run dev
+### 2. Install Dependencies
+```bash
+bun install  # or npm install / yarn install
 ```
+### 3. Start the Development Server
+```bash
+bun run dev  # or npm run dev / yarn dev
