@@ -1,8 +1,46 @@
-# React + Vite
+# 🧩 Nexcent – Business Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Nexcent** is a clean, modern, and fully responsive business/community landing page built with **React JS** and **Tailwind CSS**. It’s ideal for startups, SaaS companies, and service-based businesses to showcase their platform, engage users, and drive conversions.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [nexcent-123.netlify.app](https://nexcent-123.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## ✨ Features
+
+- 📱 Fully responsive layout (desktop, tablet, mobile)
+- ⚙️ Reusable and modular components
+- 📊 Sections: Features, Clients, Testimonials, Community CTA, and Footer
+- 🎨 Styled with utility-first Tailwind CSS
+- 🚀 Deployed with Netlify for fast performance
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** React JS
+- **Styling:** Tailwind CSS
+- **Icons:** React Icons or Heroicons (if used)
+- **Bundler:** Vite
+- **Deployment:** Netlify
+- **Package Manager:** Bun (if you're using it)
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/hamzaanwerdev/laslesvpn.git
+cd laslesvpn
+```
+---
+
+2. Install Dependencies
+ ```bash
+bun install
+bun run dev
+```
