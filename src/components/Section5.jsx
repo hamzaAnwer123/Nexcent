@@ -1,7 +1,7 @@
 const Section5 = () => {
     return (
         <>
-            <div className="py-16 px-10 md:px-20 bg-[#F5F7FA] flex justify-around items-center flex-wrap gap-12">
+            <section id="product" className="py-16 px-10 md:px-20 bg-[#F5F7FA] flex justify-around items-center flex-wrap gap-12">
                 <div>
                     <h2 className="text-3xl text-[#4d4d4d] font-semibold">Helping a local <span className="block text-[#4CAF4F]">business reinvent itself</span></h2>
                     <p className="text-[#929393]">We reached here with our hard work and dedication</p>
@@ -36,7 +36,7 @@ const Section5 = () => {
                         </div>
                     </div>
                 </div>
-            </div>
+            </section>
         </>
     )
 }

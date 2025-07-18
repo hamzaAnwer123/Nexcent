@@ -3,7 +3,7 @@
 const Section6 = () => {
   return (
     <>
-      <div className="py-10 px-10 md:px-20 flex flex-wrap justify-around w-full items-center gap-12">
+      <section id="testimonial" className="py-10 px-10 md:px-20 flex flex-wrap justify-around w-full items-center gap-12">
         <div>
           <img loading="lazy" className="w-full" src="images/pana.png" alt="image" />
         </div>
@@ -15,7 +15,7 @@ const Section6 = () => {
                     <button className="bg-[#4CAF4F] text-white px-5 py-3 rounded-md">Learn More</button>
                 </div>
         </div>
-      </div>
+      </section>
     </>
   )
 }

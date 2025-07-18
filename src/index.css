@@ -15,3 +15,6 @@ body{
 .para{
     color: #929393;
 }
+html {
+  scroll-behavior: smooth;
+}

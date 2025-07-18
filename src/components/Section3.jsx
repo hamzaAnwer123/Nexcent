@@ -3,7 +3,7 @@
 const Section3 = () => {
     return (
         <>
-            <div className="py-10 px-10 md:px-20 space-y-12">
+            <section id="service" className="py-10 px-10 md:px-20 space-y-12">
                 <div className="w-full flex gap-3 items-center flex-col">
                     <h2 className="heading text-4xl text-center font-medium w-full md:w-[40rem]">Manage your entire community in a single system</h2>
                     <p className="para ">Who is Nextcent suitable for?</p>
@@ -25,7 +25,7 @@ const Section3 = () => {
                         <p className="para">Our membership management software provides full automation of membership renewals and payments</p>
                     </div>
                 </div>
-            </div>
+            </section>
         </>
     )
 }
